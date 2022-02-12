@@ -1,5 +1,4 @@
 import csv
-from collections import Counter
 
 
 def get_word_list():
@@ -113,7 +112,7 @@ def solve_wordle(wordle_raw):
 """
 Replace content here with your wordle board
 
-Recommended starting worde: CRANE
+Recommended starting word: CRANE
 
 Format: Upper case letter (A-Z), lower case color (byg)
 """

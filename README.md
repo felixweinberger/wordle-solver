@@ -1,5 +1,5 @@
 # Wordle solver
-A python script to solve Wordle puzzles.
+A simple python script to solve Wordle puzzles.
 
 https://www.nytimes.com/games/wordle/index.html
 
