@@ -29,7 +29,7 @@ This would be represented as:
 wordle_raw = [
     "Cy Ry Ab Nb Ey",
     "Fb Ry Ob Wb Nb",
-    "Fb Ab Cg Eg Rg",
+    "Fb Ab Cg Eg Rg"
 ]
 ```
 

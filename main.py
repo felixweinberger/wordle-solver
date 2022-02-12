@@ -118,7 +118,8 @@ Recommended starting worde: CRANE
 Format: Upper case letter (A-Z), lower case color (byg)
 """
 wordle_raw = [
-    "Cb Rb Ay Nb Ey",
-    "Vb Ay Ly Ub Ey",
+    "Cy Ry Ab Nb Ey",
+    "Fb Ry Ob Wb Nb",
+    "Fb Ab Cg Eg Rg"
 ]
 solve_wordle(wordle_raw)
